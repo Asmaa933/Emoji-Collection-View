@@ -10,5 +10,6 @@ Check emoji in app and select item or more can add them again or delete them
 <img src="https://user-images.githubusercontent.com/44899782/79301793-c45b8280-7eea-11ea-9338-797d57fc8432.png" width="130">
 
 </div>
+
 ## Build with
 - Swift
